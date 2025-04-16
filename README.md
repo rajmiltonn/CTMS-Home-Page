@@ -1,10 +1,11 @@
 # Cloud Tech Mind Solutions
 
-Cloud Tech Mind Solutions (CTMS) is a modern, professional website designed to showcase cloud transformation services and client success stories. This project was created for a client on Upwork.
+Cloud Tech Mind Solutions (CTMS - Home Page) is a modern, professional website designed to showcase cloud transformation services and client success stories. This project was created for a client on Upwork.
 
 ## 🌐 Live Demo
 
-> [[ Click Here](https://cloud-tech-mind-solutions-02.vercel.app/)]
+https://github.com/user-attachments/assets/a6ca8236-362e-4753-be6d-a6f53cf81587
+> [[ Click Here to Visit the Live Site ]](https://cloud-tech-mind-solutions-02.vercel.app/)
 
 ## 🛠️ Tech Stack
 
